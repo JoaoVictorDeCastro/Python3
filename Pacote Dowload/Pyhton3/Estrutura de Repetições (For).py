@@ -1,4 +1,4 @@
-for c in range(1,11):
+for c in range(1,11):  
     print(c)
 print('DESCRESCENTE')
 #O último ele ignora, então se eu colocar para ele escrever de 1 até 6 eu preciso colocar o "for c in range (1,7)"
