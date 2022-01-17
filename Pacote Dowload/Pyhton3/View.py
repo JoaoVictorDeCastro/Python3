@@ -1,4 +1,5 @@
-for c in range(0, 100000):
+num = 1
+while num == 1:
     nome = input('Qual o seu nome? ')
     idade = int(input('Qual a sua idade? '))
     sexo = input('Qual o seu gênero? [M,F] ').strip().upper()
