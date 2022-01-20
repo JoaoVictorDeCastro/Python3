@@ -5,7 +5,7 @@ while resposta != 'N':
     resposta = str(input('Quer continuar? [S/N] ')).strip().upper()
     cont += 1
     total = n + total
-    if cont ==1:
+    if cont == 1:
         maior = menor = n
     else:
         if n > maior:
