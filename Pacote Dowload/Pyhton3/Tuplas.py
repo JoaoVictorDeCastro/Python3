@@ -7,3 +7,6 @@ print('Comi para caramba!')
 for cont in range(0, len(lanche)):
     print(f'Eu vou comer {lanche[cont]} na posição {cont}')
 print('Comi para caramba!')
+for pos, comida in enumerate(lanche):
+    print(f'Eu comer {comida} na posição {pos}')
+print('Comi para caramba!')
