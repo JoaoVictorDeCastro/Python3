@@ -8,7 +8,7 @@ for cont in range(0, len(lanche)):
     print(f'Eu vou comer {lanche[cont]} na posição {cont}')
 print('Comi para caramba!')
 for pos, comida in enumerate(lanche):
-    print(f'Eu comer {comida} na posição {pos}')
+    print(f'Eu vou comer {comida} na posição {pos}')
 print('Comi para caramba!')
 print(sorted(lanche))
 a = (2, 5, 4)
